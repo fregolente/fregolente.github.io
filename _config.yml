@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diego Fregolent Mendes de Oliveira  @ SoDa - UMD"
+title                    : "Diego Fregolent M. de Oliveira"
 title_separator          : "-"
 name                     : &name "Diego Fregolent Mendes de Oliveira"
 description              : &description "Assistant Research Scientist"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "weiglemc"
+  username               : "DiegoFregolente"
 facebook:
   username               :
   app_id                 :
@@ -80,37 +80,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Michele C. Weigle"
-  avatar           : "mweigle-ODU.jpg"
-  bio              : "Professor of Computer Science"
-  location         : "Norfolk, VA"
-  employer         : "Old Dominion University"
-  employeruri      : "https://www.odu.edu"
+  name             : "Dr. Diego Fregolent Mendes de Oliveira"
+  avatar           : "DiegoUMD.jpeg"
+  bio              : "Assistant Research Scientist"
+  location         : "College Park, MD"
+  employer         : "University of Maryland"
+  employeruri      : "https://www.umd.edu"
   pubmed           : 
-  googlescholar    : "http://scholar.google.com/citations?user=MOLPTqcAAAAJ&hl=en"
-  email            : "mweigle at cs dot odu dot edu"
+  googlescholar    : "https://scholar.google.com/citations?user=bIL7_QMAAAAJ&hl=en"
+  email            : "dfmo at umd dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.cs.odu.edu/~mweigle/"
+  uri              : "https://www.http://diegofregolent.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiglemc"
+  github           : "fregolente"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "michele-weigle-559b052"
-  orcid            : "http://orcid.org/0000-0002-2787-7166"
+  linkedin         : "diego-fregolent-mendes-de-oliveira-14a4b098"
+  orcid            : "http://orcid.org/0000-0002-2375-0539"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "weiglemc"
+  twitter          : "DiegoFregolente"
   vine             :
   weibo            :
   xing             :
