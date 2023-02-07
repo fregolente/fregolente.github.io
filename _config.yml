@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michele C. Weigle @ ODU"
+title                    : "Diego Fregolent Mendes de Oliveira  @ SoDa - UMD"
 title_separator          : "-"
-name                     : &name "Michele C. Weigle"
-description              : &description "Professor of Computer Science"
+name                     : &name "Diego Fregolent Mendes de Oliveira"
+description              : &description "Assistant Research Scientist"
 url                      : https://weiglemc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiglemc/weiglemc.github.io"
