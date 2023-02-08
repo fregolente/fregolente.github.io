@@ -7,8 +7,6 @@ author_profile: true
 
 ## All Publications
 
-*copied from <http://web.archive.org/web/20210417062431/https://www.cs.odu.edu/~mweigle/Main/PubsByYear>, needs cleanup and links added*
-
 The number of citations can be found in my Google Scholar at bit.ly/dfmo_citations
 
 Under Review
