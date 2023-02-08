@@ -11,72 +11,46 @@ twitter-color: "#55acee"
 github-color: "#171516"
 blogger-color: "#F37100"
 ---
-I am a Professor of Computer Science at Old Dominion University, where I've been on the faculty since 2006.  
+I am an Assistant Research Scientist at the Social Data Science Center (SoDa) and the College of Information Studies (iSchool) at University of Maryland.  
 
-For an overview of my research over the past few years, see [On the importance of web archiving](https://items.ssrc.org/parameters/on-the-importance-of-web-archiving/), an article I wrote for [*SSRC Parameters*](https://items.ssrc.org/category/parameters/) in 2018. I recently gave an [interview covering my background, our research group, and challenges facing web archive collections](https://circulatingnow.nlm.nih.gov/2022/11/10/whats-in-a-web-archive-collection-summarization-and-discovery-of-archived-webpages/) for the National Library of Medicine's [*Circulating Now* blog](https://circulatingnow.nlm.nih.gov/). I'm currently featured on the [ODU Faculty Women in STEM page](https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342), where you can read a bit more about my background and experiences as a woman in computer science. For more information on my education and work experience, see my [bio](#bio).
+ Before joining the University of Maryland, I held several positions that includes a and I am a Research Scientist at the Rensselaer Polytechnic Institute and the Army Research Lab working in collaboration with Prof. Dr. Boleslaw K. Szymanski and Dr. Kevin S. Chan.
+
+Before joining RPI/ARL, I was a Postdoctoral Fellow at Northwestern University working in collaboration with Prof. Luis Amaral and Prof. Brian Uzzi from the Department of Chemical and Biological Engineering in the McCormick School of Engineering and Applied Science and the Northwestern Institute on Complex Systems (NICO).
+
+Here you will find some information about my work with complex networks and time-dependent systems.
 
 **Research Interests:** web science, social media, web archiving, digital preservation, information visualization (see some student infovis projects in  my [infovis gallery](https://www.cs.odu.edu/~mweigle/research/gallery.html))
 
-## Graduate Program Director
-
-I serve as the Graduate Program Director (GPD) for Administration in the Department of Computer Science.  (We also have a GPD for Admissions and a GPD for Advising.) See our website for information on our graduate programs ([Master's Program](https://odu.edu/compsci/academics/graduate/masters), [PhD Program](https://odu.edu/compsci/academics/graduate/phd)). If you need to contact a CS GPD, please use [csgpd@odu.edu](mailto:csgpd@odu.edu).
-
-## Teaching 
-
-This semester (Spring 2023), I am teaching [CS 725/825 - Information Visualization & Data Analytics](https://weiglemc.github.io/teaching/2023-spr-cs725825).
-
-## Research
-
-I'm a member of the ODU Web Science and Digital Libraries (WS-DL) Research Group.  
-
-<a href="https://oduwsdl.github.io/" target="_blank" class="btn btn--mcw"><i class="fas fa-fw fa-link"></i><span> WS-DL Webpage</span></a>
-<a href="https://twitter.com/WebSciDL" target="_blank" class="btn btn--mcw"><i class="fab fa-twitter" style="color: {{ page.twitter-color }}"></i><span> WS-DL Twitter</span></a>
-<a href="https://ws-dl.blogspot.com/" target="_blank" class="btn btn--mcw"><i class="fab fa-blogger" style="color: {{ page.blogger-color }}"></i><span> WS-DL Blog</span></a>
-<a href="https://github.com/oduwsdl" target="_blank" class="btn btn--mcw"><i class="fab fa-fw fa-github" style="color: {{ page.github-color }}"></i><span> WS-DL GitHub</span></a>
-{: style="text-align: center;"}
-
-{% for post in site.publications reversed %}
-  {% if post.type == "recent" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-## Active Funding
-
-* Michele C. Weigle (PI), Erika Frydenlund, Data Science for Social Good:  Mining and Visualizing Worldwide News to Monitor Xenophobic Violence Towards Migrants and Refugees, ODU Data Science Seed Funding, Jul 2022 - Jun 2023, $38,000.
-* Erika Frydenlund (PI), Jose Padilla (VMASC), Michele C. Weigle, Jennifer Fish, Michael L. Nelson, Michaela Hynie (York University, Canada), Hanne Haaland (Univ of Agder, Norway), Hege Wallevik (Univ of Agder, Norway), Katherine Palacio-Salgar (Universidad del Norte, Columbia), [What's Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments](https://minerva.defense.gov/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/), Jul 2022 - Jul 2025, Department of Defense Minerva Research Initiative, $1,700,245  - [blog post](https://ws-dl.blogspot.com/2022/03/2022-03-03-whats-missing-innovating.html)
-* Sampath Jayarathna (PI), Jian Wu, Senior Personnel: Michele C. Weigle, Michael Nelson, Vikas Ashok, Faryaneh Poursardar, Anne Perrotti (Education), Erika Frydenlund (VMASC), [REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics](http://reu.cs.odu.edu/), NSF REU Site (CNS 2149607), Mar 2022 - Feb 2025, $324,000.
-* Vicky Rampin (NYU), Martin Klein (LANL), wilkie (Univ. of Pittsburgh), Michael L. Nelson, Michele C. Weigle, [CoSAI - Collaborative Software Archiving for Institutions](https://sloan.org/grant-detail/9628), Alfred P. Sloan Foundation, Sep 2021 - Sep 2023, $520,503.
-* Michael L. Nelson (PI), Michele C. Weigle, Sue Kimmel, Jessica Ritchie, and Hongyi Wu, [A Graduate Certificate in Web Archiving](https://www.imls.gov/grants/awarded/re-250048-ols-21), IMLS Laura Bush 21st Century Librarian Program, RE-250048-OLS-21, Aug 2021 - Jul 2023, $98,361 - [blog post](https://ws-dl.blogspot.com/2021/08/2021-08-21-imls-laura-bush-award.html)
-
-*My full funding list is available in my [CV](https://weiglemc.github.io/cv/).*
-
-## Service
-
-* Editorial Board
-  * [*Journal of the Association for Information Science and Technology*](https://asistdl.onlinelibrary.wiley.com/hub/journal/23301643/homepage/editorialboard) (JASIST) (2016-present)
-  * [*International Journal on Digital Libraries*](https://www.springer.com/computer/database+management+&+information+retrieval/journal/799/PS2?detailsPage=editorialBoard) (IJDL) (2018-present)
-* Steering Committee Member, ACM/IEEE Joint Conference on Digital Libraries (JCDL) (2020-present)
-* Doctoral Consortium Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2022
-* Program Co-Chair, ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2016
-* Faculty Advisor, ACM-W @ ODU, 2013-2022
-* Faculty Representative, [NCWIT Academic Alliance](https://www.ncwit.org/alliances/aa)
-* ODU-CS Graduate Program Director, 2013-2019, 2022-present
-
-
-## Bio
-
-Dr. Michele C. Weigle is a Professor of Computer Science at Old Dominion University. Her research interests include web science, social media, digital preservation, and information visualization. She has published over 115 articles in peer-reviewed conferences and journals and has served as PI or Co-PI on external research grants totaling $6M from a wide range of funders, including the National Science Foundation, the National Endowment for the Humanities, the Institute of Museum and Library Services, and the Andrew W. Mellon Foundation. She currently serves on the editorial boards of the *Journal of the Association for Information Science and Technology* (JASIST) and the *International Journal on Digital Libraries* (IJDL). Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003.
 
 ### Academic Timeline
 
-* July 2018 - present, Professor, [Computer Science](https://www.cs.odu.edu/), [Old Dominion University](https://www.odu.edu/)
-* July 2012 - July 2018, Associate Professor, Computer Science, Old Dominion University
-* July 2006 - July 2012, Assistant Professor, Computer Science, Old Dominion University
-* July 2004 - July 2006, Assistant Professor, [Computer Science](http://www.clemson.edu/ces/departments/computing/), [Clemson University](http://www.clemson.edu)
-* August 2003 - June 2004, Visiting Assistant Professor, Computer Science, University of North Carolina
-* August 2003, Ph.D., [Computer Science](https://www.cs.unc.edu), [University of North Carolina](https://www.unc.edu)
-* May 1998, M.S., Computer Science, University of North Carolina
-* May 1996, B.S., [Computer Science](http://www.ulm.edu/cba/computerscience/index.html) ([Honors Program](http://www.ulm.edu/honors)), Northeast Louisiana University (now [University of Louisiana at Monroe](http://www.ulm.edu))
-  
-<iframe width="300" src="https://www.youtube.com/embed/FVIg42xHlvQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+01/2022 -  Present Assistant Research Scientist in The Social Data Science Center - SoDa and the College of Information Studies (iSchool) at
+University of Maryland - College Park - Maryland - USA.
+
+08/2020 - 12-2021 Postdoctoral Research Associate at the Statistical and Applied Mathematical Sciences Institute (Program on Data Science in the Social and Behavioral Sciences) ant the University of Department of Mathematics - North Carolina - Chapel Hill - NC in collaboration with Prof. Dr. Peter Mucha, Prof. Dr. M. Gregory Forest and Prof. David Banks.
+
+11/2017 – 08/2020 Research Scientist at the US Army Research Laboratory and the Rensselaer Polytechnic Institute working in collaboration with Prof. Dr. Boleslaw K. Szymanski and Dr. Kevin Chan.
+
+Former Positions: 03/2016 – Post-Doctoral Fellow at the Department of Chemical and Biological Engineering in the McCormick School of Engineering and Applied Science and the Northwestern Institute on Complex Systems (NICO) – Northwestern University – working in collaboration with Prof. Luis Amaral and Prof. Brian Uzzi.
+
+04/2013-02/2016 — Post-Doctoral Fellow at the Center for Complex Networks and Systems Research – School of Informatics and Computing – Indiana University. Fellowship: James S. McDonnell Foundation. Supervisor: Professor Dr. Filippo Menacer and Professor Dr. Alessandro Flammini. Topic: Diffusion in Complex.
+
+03/2013 – 04/2013 Supervisor: Dr. Edson D. Leonel Work Project: Statistical and dynamical properties of time-dependent systems. State University of São Paulo — Rio Claro-SP — Brazil. Grant: Fundação de Amparo à Pesquisa do Estado de São Paulo – FAPESP. Visiting PhD Student: 
+
+2/2011-12/2012 — Post-Doctoral Fellow at the Institute for Multiscale Simulations Friedrich-Alexander Universität Erlangen-Nürnberg Fellowship: Deutsche Forschungsgemeinschaft through the Cluster of Excellence Engineering of Advanced Materials. Supervisor: Professor Dr. Thorsten Pöschel Topic: Properties of Granular Systems. 
+
+08/2011 – 11/2011 Supervisor: Dr. Eduardo G. Altmann Work Project: Diffusion in time-dependent billiards. Max Planck Institute for the Physics of Complex Systems – Dresden – Germany. Grant: Max Planck Institute 
+
+10/2009-07/2012 — PhD in Physics Thesis Topic: Statistical and Dynamical Properties of Time-Dependent Systems Supervisor: Professor Dr. Marko Robnik Area of Study: Nonlinear Dynamics, Chaos. Scholarships: Javni sklad RS za razvoj kadrov in stipendije – Ad Futura Center for Applied Mathematics and Theoretical Physics University of Maribor – Krekova 2, SI-2000 – Maribor – Slovenia. 
+
+07/2009 – 01/2010 Supervisor: Dr. Jürguen Vollmer Work Project: Fermi acceleration in a time-dependent Lorentz gas. Grant: Ludwig Prandtl Internship at Max Planck Institute for Dynamics and Self-Organization – Göttingen – Germany.    
+
+03/2008-07/2009 — Master’s in Physics Thesis Topic:Time dependent billiards, A mechanism to suppress Fermi acceleration. Supervisor: Professor Dr. Edson Denis Leonel Area of Study: Nonlinear Dynamics and Chaos. Scholarships: Fundação de Amparo à Pesquisa do Estado de São Paulo – FAPESP State University of São Paulo — Rio Claro-SP — Brazil. 
+
+02/2004-12/2007 — Graduation: Bachelor in Physics Supervisor: Professor Dr. Edson Denis Leonel Scholarships: Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq. State University of São Paulo — Rio Claro-SP — Brazil. 
+
+02/2004 – 12/2007 — Graduation: Physics Teacher Supervisor: Professor Dr. Edson Denis Leonel Scholarships: Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq. State University of São Paulo — Rio Claro-SP — Brazil. 02/2000 – 12/2003 — High school – Centro Educacional São Paulo. Ji-Paraná – Rondônia – Brazil. 
+
+
+
+
