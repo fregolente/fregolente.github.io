@@ -73,3 +73,25 @@ title: "News"
 04/27/19 - Voice of America: [Study: Female Researchers Get Less Financial Support than Males.](https://learningenglish.voanews.com/a/female-researchers-get-less-financial-support-than-males/4889987.html)
 
 05/02/19 - Kellogg Insight: [How Big is the Gender Gap in Science Research Funding?](https://insight.kellogg.northwestern.edu/article/how-big-is-the-gender-gap-in-science-research-funding)
+
+
+
+**Our paper [Women who win prizes get less money and prestige](https://www.nature.com/articles/d41586-019-00091-3) was featured in:
+
+01/17/19 - GenomeWeb: [Even for Prizes, Women Get Less Money.](https://www.genomeweb.com/scan/even-prizes-women-get-less-money#.XNyP-i-ZPO0)
+
+01/18/19 - The Scientist Magazine:  [Women Who Win Science Prizes Earn Less Money, Prestige than Men.](https://www.the-scientist.com/news-opinion/women-who-win-science-prizes-earn-less-money--prestige-than-men-65339)
+
+01/18/19 - Globes:  [The scientist studying how scientific discovery comes about(Article written in Hebrew, January 2019).](https://www.globes.co.il/news/article.aspx?did=1001269513)
+
+01/20/19 - The Conversation:  [Minding the gender gap in science prize](http://theconversation.com/minding-the-gender-gap-in-science-prizes-109219)
+
+02/14/19 - Harvard Business Review:  [Women Are Winning More Scientific Prizes, But Men Still Win the Most Prestigious Ones.](https://hbr.org/2019/02/research-women-are-winning-more-scientific-prizes-but-men-still-win-the-most-prestigious-ones)
+
+02/07/19 - Il Solo 24 Ore:  [Donne scienziate, una minoranza in ascesa.](https://www.ilsole24ore.com/art/cultura/2019-02-05/donne-scienziate-minoranza-ascesa-153144.shtml?refresh_ce=1)
+
+02/16/19 - SheThePeopleTv:  [Women Are Winning More Scientific Prizes But Lesser Prestige Than Men.](https://www.shethepeople.tv/news/women-winning-scientific-prizes-lesser-prestige)
+
+04/28/19 - El Pais:  [Retina papers - Las científicas ganan cada vez más premios pero ellos se siguen llevando los más prestigiosos.](https://retina.elpais.com/retina/2019/04/26/talento/1556267382_301479.html)
+
+
