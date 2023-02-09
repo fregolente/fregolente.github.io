@@ -5,19 +5,8 @@ title: "Contact Info"
 
 ## Office Location
 
-E&amp;CS Building Rm. 3327  
-4700 Elkhorn Ave.  
-Old Dominion University  
-Norfolk, VA  
-(757) 683-7729
-
-## Mailing Address
-
-Dr. Michele C. Weigle  
-4700 Elkhorn Ave., Suite 3300  
-Dept. of Computer Science  
-Old Dominion University  
-Norfolk, VA 23529-0162
-
-## For GPD matters
-Email: [csgpd@odu.edu](mailto:csgpd@odu.edu)
+Diego Fregolent Mendes de Oliveira, PhD
+Assistant Research Scientist 
+University of Maryland | Social Data Science Center (SoDa)  
+LeFrak Hall | Room 1218F | College Park, MD 20742 
+Email: [dfmo@umd.edu](mailto:dfmo@umd.edu)
