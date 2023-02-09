@@ -15,6 +15,10 @@ main:
   #- title: "Talks"
   #  url: /talks/
 
+  - title: "News"
+    url: /news/
+
+
   #- title: "Schedule"
   #  url: /schedule/
            
