@@ -2,9 +2,9 @@
 permalink: /news/
 title: "News"
 ---
-# **Our paper [Comparison of National Institutes of Health Grant Amounts to First-Time Male and Female Principal Investigators](https://jamanetwork.com/journals/jama/fullarticle/2726973)**
+## **Our paper [Comparison of National Institutes of Health Grant Amounts to First-Time Male and Female Principal Investigators](https://jamanetwork.com/journals/jama/fullarticle/2726973)**
  
-03/05/19 - Northwestern Now:  [Women scientists get less federal funding than men.](https://news.northwestern.edu/stories/2019/03/women-scientists-get-less-federal-funding-than-men)
+>03/05/19 - Northwestern Now:  [Women scientists get less federal funding than men.](https://news.northwestern.edu/stories/2019/03/women-scientists-get-less-federal-funding-than-men)
 
 03/05/19 - The New York Times: [Another Obstacle for Women in Science: Men Get More Federal Grant Money.](https://www.nytimes.com/2019/03/05/science/women-scientists-grants.html)
 
@@ -76,7 +76,7 @@ title: "News"
 
 
 
-**Our paper [Women who win prizes get less money and prestige](https://www.nature.com/articles/d41586-019-00091-3) was featured in:**
+##**Our paper [Women who win prizes get less money and prestige](https://www.nature.com/articles/d41586-019-00091-3) was featured in:**
 
 01/17/19 - GenomeWeb: [Even for Prizes, Women Get Less Money.](https://www.genomeweb.com/scan/even-prizes-women-get-less-money#.XNyP-i-ZPO0)
 
@@ -95,12 +95,12 @@ title: "News"
 04/28/19 - El Pais:  [Retina papers - Las científicas ganan cada vez más premios pero ellos se siguen llevando los más prestigiosos.](https://retina.elpais.com/retina/2019/04/26/talento/1556267382_301479.html)
 
 
-**Our paper [Characterizing the Impact of Women in Academic IR: A 12-Year Analysis](https://www.jvir.org/article/S1051-0443(18)31283-1/fulltext) was featured in:**
+##**Our paper [Characterizing the Impact of Women in Academic IR: A 12-Year Analysis](https://www.jvir.org/article/S1051-0443(18)31283-1/fulltext) was featured in:**
 
 10/05/2018 - [Academic interventional radiology community inclusive of female researchers.](https://www.radiologybusiness.com/topics/leadership/academic-interventional-radiology-inclusive)
 
 
-**Our paper about [Diffusion of information in online social media](http://www.diegofregolent.com/wp-content/uploads/2017/04/NHB.pdf) was featured in:**
+##**Our paper about [Diffusion of information in online social media](http://www.diegofregolent.com/wp-content/uploads/2017/04/NHB.pdf) was featured in:**
 
 07/14/17 - Scientific American: [How Fake News Goes Viral—Here’s the Math.](https://www.scientificamerican.com/article/how-fake-news-goes-viral-mdash-heres-the-math/?wt.mc=SA_Facebook-Share) 
 
@@ -229,7 +229,7 @@ title: "News"
 06/26/17 - DW: [Politische Twitter-Posts: Welche gehen viral?](http://www.dw.com/de/politische-twitter-posts-welche-gehen-viral/a-39416968) 
 
 
-**Our paper on [Social bubbles](http://www.diegofregolent.com/wp-content/uploads/2017/04/2015-Measuring_online_social_bubbles.pdf) was featured in**
+##**Our paper on [Social bubbles](http://www.diegofregolent.com/wp-content/uploads/2017/04/2015-Measuring_online_social_bubbles.pdf) was featured in**
 
 01/04/15 - WBAA: [Social Media Isolates News Consumers Into 'Bubbles,' Says IU Study.](http://wbaa.org/post/social-media-isolates-news-consumers-bubbles-says-iu-study) 
 
