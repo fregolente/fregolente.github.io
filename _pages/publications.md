@@ -14,15 +14,25 @@ The number of citations can be found in my Google Scholar at bit.ly/dfmo_citatio
 Under Review
 
 D. F. M. Oliveira, Kevin S. Chan, Peter J. Mucha Message sorting: a mechanism that hinders the system’s discriminative power. Accepted for Publication, 2022.
+
 N. Xiao, D. F. M. Oliveira Gender Disparities in Academic Radiology: A 13-Year Review. Accepted for Publication, 2022.
+
 G. L. Ciampaglia, M. Tambuscio, D. F. M Oliveira, G. Ruffo, A. Flammini, F. Menczer Understanding the spread of misinformation over online social networks. In Progress, 2022.
+
 D. F. M. Oliveira, Q Jin, K. S. Chan, Brian Uzzi Quantifying Gender Disparities in Economics Research. In Progress, 2022.
+
 D. F. M. Oliveira, Q Jin, K. S. Chan, Brian Uzzi Prize and Prestige in Economics Research. In Progress , 2022.
+
 A. Bradford,M.-L. Sohnius, K. A. Morris,D.F.M. Oliveira, A.C. Haensch, M. Srivastava, W. La Motte-Kerr, J. Klein, F. Kreuter, Socio-demographic question placement in a multinational web survey. In Progress , 2022.
+
 D.F.M. Oliveira, A. Bradford, M.-L. Sohnius, K. A. Morris, A.C. Haensch, F. Kreuter, Characterizing long covid in a multinational web survey. In Progress, 2022.
+
 D. F. M. Oliveira, E.D. Leonel Unlimited Energy growth in an Lemon-like billiard. In Progress, 2022.
+
 D. F. M. Oliveira, E.D. Leonel Suppression of Fermi-acceleration in a two dimensional time-dependent Lemon- like billiard. In Progress, 2022.
+
 D. F. M. Oliveira, K. S. Chan, Quantifying differences in US and Russian news propagation in online social media. In Progress, 2022.
+
 Published
 
 Hongjia H. Chen, Tristram J. Alexander, Diego F.M. Oliveira and Eduardo G. Altmann Scaling laws and dy- namics of hashtags on Twitter. Chaos, vol. 30, 063112, 2020.
