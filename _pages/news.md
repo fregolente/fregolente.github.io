@@ -2,7 +2,7 @@
 permalink: /news/
 title: "News"
 ---
- Our paper [Comparison of National Institutes of Health Grant Amounts to First-Time Male and Female Principal Investigators](https://jamanetwork.com/journals/jama/fullarticle/2726973)
+ **Our paper [Comparison of National Institutes of Health Grant Amounts to First-Time Male and Female Principal Investigators](https://jamanetwork.com/journals/jama/fullarticle/2726973)**
  
 03/05/19 - Northwestern Now:  [Women scientists get less federal funding than men.](https://news.northwestern.edu/stories/2019/03/women-scientists-get-less-federal-funding-than-men)
 
