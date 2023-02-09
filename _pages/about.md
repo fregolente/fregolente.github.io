@@ -21,7 +21,7 @@ Here you will find some information about my work with complex networks and time
 
 **Research Interests:** Complex Networks Systems: Data analysis, data visualization, big data, data mining, machine learning, optimization, social network analysis, sentiment analysis, agent-based modeling, computational social science, information diffusion, modeling of dynamical processes on networks, online social media. 
 
-    Chaos and Dynamical Systems, acting mainly on the following themes: nonlinear dynamics, dynamical systems, closed and open systems, scaling law, discrete maps, chaotic dynamics, 
+**Research Interests:**  Chaos and Dynamical Systems, acting mainly on the following themes: nonlinear dynamics, dynamical systems, closed and open systems, scaling law, discrete maps, chaotic dynamics, 
     conservative and dissipative systems, time-dependent systems, Fermi acceleration, billiards,
     kicked systems, chaotic and periodic attractors, bifurcations, boundary crisis. 
 
