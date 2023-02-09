@@ -7,7 +7,7 @@ author_profile: true
 
 ## All Publicationsw
 
-The number of citations can be found in my Google Scholar at [bit.ly/dfmo_citations](bit.ly/dfmo_citations)
+The number of citations can be found in my Google Scholar at [bit.ly/dfmo_citations](https://scholar.google.com/citations?user=bIL7_QMAAAAJ&hl=en)
 
 **Under Review or In Progress**
 
