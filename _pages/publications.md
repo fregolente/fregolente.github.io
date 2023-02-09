@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from: 
+  - /pubs/
+  - /publications/pubsbyyear/
+---
 
 
 The number of citations can be found in my Google Scholar at bit.ly/dfmo_citations
