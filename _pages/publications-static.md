@@ -5,7 +5,7 @@ permalink: /publications-static/
 author_profile: true
 ---
 
-## All Publications
+## All Publicationsw
 
 The number of citations can be found in my Google Scholar at [bit.ly/dfmo_citations](bit.ly/dfmo_citations)
 
