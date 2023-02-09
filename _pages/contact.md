@@ -9,8 +9,8 @@ Diego Fregolent Mendes de Oliveira, PhD
 
 Assistant Research Scientist 
 
-University of Maryland | Social Data Science Center (SoDa)  
+Social Data Science Center (SoDa)   - University of Maryland
 
-LeFrak Hall | Room 1218F | College Park, MD 20742 
+LeFrak Hall - Room 1218F - College Park, MD 20742 
 
 Email: [dfmo@umd.edu](mailto:dfmo@umd.edu)
