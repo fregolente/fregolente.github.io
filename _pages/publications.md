@@ -75,13 +75,13 @@ The number of citations can be found in my [Google Scholar](https://scholar.goog
 
 28. D. R. Costa, D. F. M. Oliveira, E. D. Leonel, **Dynamical and statistical properties of a rotating oval billiard.** Communications in Nonlinear Science and Numerical Simulations, vol. 19, p.1926–1934, 2014.
 
-27. D. F. M. Oliveira, P ̈oschel, T., **Competition between unlimited and limited energy growth in a two-dimensional time-dependent billiard. Phys Lett A, vol.337, p. 2052-2057, 2013.
+27. D. F. M. Oliveira, Pöschel, T., **Competition between unlimited and limited energy growth in a two-dimensional time-dependent billiard.** Phys Lett A, vol.337, p. 2052-2057, 2013.
 
 26. D. F. M. Oliveira, E. D. Leonel, **Some dynamical properties of a classical dissipative bouncing ball model with two nonlinearities.** Physica A, vol.392, p. 1762-1769, 2013.
 
 25. D. F. M. Oliveira, E. D. Leonel, **Dynamical properties for the problem of a particle in a electric field of wave packet: low velocity and relativistic approach.** Phys. Lett. A, v.376 p.3630-3637, 2012.
 
-24. O. Georgiou, G. Gligori ́c, A. Lazarides, D. F. M. Oliveira, J. D. Bodyfelt, A. Goussev, **Influence of boundary conditions on quantum escape.** Europhys. Lett., v.100, p.20005(1-6) 2012.
+24. O. Georgiou, G. Gligorić, A. Lazarides, D. F. M. Oliveira, J. D. Bodyfelt, A. Goussev, **Influence of boundary conditions on quantum escape.** Europhys. Lett., v.100, p.20005(1-6) 2012.
 
 23. D. F. M. Oliveira, M. Robnik **Scaling invariance in a time dependent elliptical billiard.** International Journal of Bifurcation and Chaos. v.22, p.1250207, 2012.
 
