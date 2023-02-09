@@ -227,3 +227,18 @@ title: "News"
 06/26/17 - News.com.au: [Real reason fake news spreads so fast on Facebook and Twitter.](http://www.news.com.au/technology/online/social/real-reason-fake-news-spreads-so-fast-on-facebook-and-twitter/news-story/2e2653d2315d4dd6e78e42ec9e9155be) 
 
 06/26/17 - DW: [Politische Twitter-Posts: Welche gehen viral?](http://www.dw.com/de/politische-twitter-posts-welche-gehen-viral/a-39416968) 
+
+
+**Our paper on [Social bubbles](http://www.diegofregolent.com/wp-content/uploads/2017/04/2015-Measuring_online_social_bubbles.pdf) was featured in**
+
+01/04/15 - WBAA: [Social Media Isolates News Consumers Into 'Bubbles,' Says IU Study.</a></li>](http://wbaa.org/post/social-media-isolates-news-consumers-bubbles-says-iu-study) 
+
+12/15/15 - Indiana Public Media: [IU Study Finds Social News Consumers’ Clicks Less Diverse</a>.</li>](http://indianapublicmedia.org/news/iu-study-finds-social-news-consumers-clicks-diverse-91190) 
+
+12/14/15 - EurekAlert! [American Association for the Advancement of Science (AAAS)]: [Social media news consumers at higher risk of information bubbles.</a></li>](http://www.eurekalert.org/pub_releases/2015-12/iu-smn121415.php) 
+
+12/14/15 - Hoosier Times: [Where you get your news online might be trapping you in a collective social bubble.</a></li>](http://www.heraldtimesonline.com/news/schools/where-you-get-your-news-online-might-trap-you-in/article_2af7dde3-54fb-5017-85e8-c74db218df59.html) 
+
+12/08/15 - the Indina University Newsroom: [Social media news consumers at higher risk of information bubbles</a>.</li>](http://news.indiana.edu/releases/iu/2015/12/social-media-bubbles.shtml) 
+
+12/08/15 - the Italian newspaper Il Manifesto:[/ Twitter revolution? More like an echo chamber</a>.</li>](http://ilmanifesto.info/twitter-revolution-more-like-an-echo-chamber) 
