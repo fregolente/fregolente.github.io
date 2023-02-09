@@ -32,9 +32,9 @@ The number of citations can be found in my Google Scholar at [bit.ly/dfmo_citati
 
 **Published**
 
-49.  D. F. M. Oliveira, Kevin S. Chan, Peter J. Mucha **Message sorting: a mechanism that hinders the system’s discriminative power**. Accepted for Publication, 2022.
+49.  D. F. M. Oliveira, Kevin S. Chan, Peter J. Mucha **Message sorting: a mechanism that hinders the system’s discriminative power**. Complex Networks and Their Applications XI: Proceedings of The Eleventh International Conference on Complex Networks and Their Applications: COMPLEX NETWORKS 2022.
 
-48. N. Xiao, D. F. M. Oliveira **Gender Disparities in Academic Radiology: A 13-Year Review.** Accepted for Publication, 2022.
+48. N. Xiao, D. F. M. Oliveira **Gender Disparities in Academic Radiology: A 13-Year Review.** Academic radiology, 2022.
 
 47. Hongjia H. Chen, Tristram J. Alexander, Diego F.M. Oliveira and Eduardo G. Altmann **Scaling laws and dy- namics of hashtags on Twitter.** Chaos, vol. 30, 063112, 2020.
 
