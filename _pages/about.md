@@ -13,7 +13,8 @@ blogger-color: "#F37100"
 ---
 I am an Assistant Research Scientist at the Social Data Science Center (SoDa) and the College of Information Studies (iSchool) at University of Maryland.  
 
- Before joining the University of Maryland, I held several positions that includes a and I am a Research Scientist at the Rensselaer Polytechnic Institute and the Army Research Lab working in collaboration with Prof. Dr. Boleslaw K. Szymanski and Dr. Kevin S. Chan.
+ Before joining the University of Maryland, I held several positions that includes a 
+ Postdoctoral Research Associate positing at The Statistical and Applied Mathematical Sciences Institute and the University North Carolina woring with Prof. Dr. Peter Mucha, Prof. Dr. M. Gregory Forest and Prof. David Banks. I was also a Research Scientist at the Rensselaer Polytechnic Institute and the Army Research Lab working in collaboration with Prof. Dr. Boleslaw K. Szymanski and Dr. Kevin S. Chan.
 
 Before joining RPI/ARL, I was a Postdoctoral Fellow at Northwestern University working in collaboration with Prof. Luis Amaral and Prof. Brian Uzzi from the Department of Chemical and Biological Engineering in the McCormick School of Engineering and Applied Science and the Northwestern Institute on Complex Systems (NICO).
 
