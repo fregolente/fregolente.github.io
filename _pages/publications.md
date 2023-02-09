@@ -10,7 +10,7 @@ redirect_from:
 
 ## All Publications
 
-The number of citations can be found in my Google Scholar at [bit.ly/dfmo_citations](https://scholar.google.com/citations?user=bIL7_QMAAAAJ&hl=en)
+The number of citations can be found in my [Google Scholar](https://scholar.google.com/citations?user=bIL7_QMAAAAJ&hl=en)
 
 **Under Review or In Progress**
 
