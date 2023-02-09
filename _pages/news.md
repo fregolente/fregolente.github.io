@@ -121,23 +121,23 @@ title: "News"
 
 06/30/17 - Libération: [Chasser les "robots" des réseaux sociaux pour réduire les "fakes news".](http://www.libe.ma/Chasser-les-robots-des-reseaux-sociaux-pour-reduire-les-fakes-news_a87862.html) 
 
-06/30/17 -  NiemanLab: [/If you think nobody’s shared any fake news with you recently, maybe you should think harder.](http://www.niemanlab.org/2017/06/if-you-think-nobodys-shared-any-fake-news-with-you-recently-maybe-you-should-think-harder) 
+06/30/17 -  NiemanLab: [If you think nobody’s shared any fake news with you recently, maybe you should think harder.](http://www.niemanlab.org/2017/06/if-you-think-nobodys-shared-any-fake-news-with-you-recently-maybe-you-should-think-harder) 
 
 06/29/17 -  Suara: [Ini Sebabnya Hoax Bisa Viral di Internet.](http://www.suara.com/tekno/2017/06/29/192957/ini-sebabnya-hoax-bisa-viral-di-internet) 
 
-06/29/17 - Smithsonian: [/How Fake News Breaks Your Brain.](http://www.smithsonianmag.com/science-nature/how-fake-news-breaks-your-brain-180963894) 
+06/29/17 - Smithsonian: [How Fake News Breaks Your Brain.](http://www.smithsonianmag.com/science-nature/how-fake-news-breaks-your-brain-180963894) 
 
 06/29/17 - Huffington Post: [Science Explains Why Fake News Goes Viral.](http://www.huffingtonpost.com/entry/science-explains-why-fake-news-goes-viral_us_59551bcee4b0da2c7321bfd1?ncid=engmodushpmg00000003) 
 
-06/29/17 - ArsTechnica: [/Information overload makes social media a swamp of fake news.](https://arstechnica.com/science/2017/06/viral-fake-news-is-inevitable-in-the-face-of-information-overload) 
+06/29/17 - ArsTechnica: [Information overload makes social media a swamp of fake news.](https://arstechnica.com/science/2017/06/viral-fake-news-is-inevitable-in-the-face-of-information-overload) 
 
-06/29/17 - The Star Online: [/Information overload fuels ‘fake news’: study.](http://www.thestar.com.my/tech/tech-news/2017/06/29/information-overload-fuels-fake-news-study) 
+06/29/17 - The Star Online: [Information overload fuels ‘fake news’: study.](http://www.thestar.com.my/tech/tech-news/2017/06/29/information-overload-fuels-fake-news-study) 
 
-06/28/17 - BRTtoday: [/Dr. Filippo Menacer on Fake News Spreading](http://www.btrtoday.com/listen/thedailybeat/week-of-062817-5) 
+06/28/17 - BRTtoday: [Dr. Filippo Menacer on Fake News Spreading](http://www.btrtoday.com/listen/thedailybeat/week-of-062817-5) 
 
 06/28/17 - Yahoo News: [Why Fake News Goes Viral: Science Explains.](https://www.yahoo.com/news/why-fake-news-goes-viral-145000659.html) 
 
-06/27/17 - Tecnologia: [/Fake news, così dilagano online.](http://tecnologia.tiscali.it/news/articoli/fake-news-cosa-dilagano-online) 
+06/27/17 - Tecnologia: [Fake news, così dilagano online.](http://tecnologia.tiscali.it/news/articoli/fake-news-cosa-dilagano-online) 
 
 06/27/17 - Ansa: [Fake news, così dilagano online.](http://www.ansa.it/sito/notizie/tecnologia/internet_social/2017/06/26/fake-news-cosi-dilagano-online_d705944e-7763-4f96-aea2-0803e1b03a59.html) 
 
@@ -153,15 +153,15 @@ title: "News"
 
 06/27/17 - 20 Minutes: [Chasser les robots pour limiter les fakes news](http://www.20min.ch/ro/multimedia/stories/story/15179950) 
 
-06/27/17 - AFP: [/Information overload fuels ‘fake news’ – study.](http://www.gmanetwork.com/news/scitech/technology/615980/information-overload-fuels-fake-news-study/story) 
+06/27/17 - AFP: [Information overload fuels ‘fake news’ – study.](http://www.gmanetwork.com/news/scitech/technology/615980/information-overload-fuels-fake-news-study/story) 
 
-06/27/17 - Tiscali: [/Fake news, così dilagano online.](http://tecnologia.tiscali.it/news/articoli/fake-news-cosa-dilagano-online) 
+06/27/17 - Tiscali: [Fake news, così dilagano online.](http://tecnologia.tiscali.it/news/articoli/fake-news-cosa-dilagano-online) 
 
 06/27/17 - The Christian Science Monitor: [How information overload helps spread fake news](https://www.csmonitor.com/Science/2017/0627/How-information-overload-helps-spread-fake-news) 
 
 06/27/17 - The Australian: [Information overload fuels fake news says study</a>.</li>](https://myaccount.news.com.au/theaustralian/subscribe?pkgDef=TA_SDO_P0415A_W04&amp;directSubscribe=true&amp;b=true&amp;sourceCode=TAWEB_WRE170_a&amp;mode=premium&amp;dest=http://www.theaustralian.com.au/business/media/information-overload-fuels-fake-news-says-study/news-story/9f1984bd003f2d252aa0d7a7596aa08e?nk=7bc8476c10669b07aae1f11d76abb51f-1498606621&amp;memtype=anonymous) 
 
-06/27/17 - Le Scienze: [/I fattori che favoriscono la diffusione di fake news.](http://www.lescienze.it/news/2017/06/27/news/bufale_attenzione_carico_informazione-3581859) 
+06/27/17 - Le Scienze: [I fattori che favoriscono la diffusione di fake news.](http://www.lescienze.it/news/2017/06/27/news/bufale_attenzione_carico_informazione-3581859) 
 
 06/27/17 - ScienceNet.cn: [研究揭示假新闻和骗局被疯传之谜](http://news.sciencenet.cn/htmlnews/2017/6/380621.shtm) 
 
@@ -173,25 +173,25 @@ title: "News"
 
 06/27/17 - Cosmo: [Information overload to blame for low quality of viral content.](https://cosmosmagazine.com/social-sciences/information-overload-to-blame-for-low-quality-of-viral-content) 
 
-06/27/17 - Yahoo Japan: [/「フェイクニュース」はなぜ跳梁跋扈するか](https://news.yahoo.co.jp/byline/ishidamasahiko/20170627-00072624) 
+06/27/17 - Yahoo Japan: [「フェイクニュース」はなぜ跳梁跋扈するか](https://news.yahoo.co.jp/byline/ishidamasahiko/20170627-00072624) 
 
 06/27/17 - Live Science: [Why Fake News Goes Viral: Science Explains.](https://www.livescience.com/59619-why-fake-news-goes-viral-science-explains.html) 
 
-06/27/17 - The Northern Star: [/The reason fake news spreads so fast on Facebook and Twitter.](https://www.northernstar.com.au/news/reason-fake-news-spreads-so-fast-facebook-and-twit/3193990) 
+06/27/17 - The Northern Star: [The reason fake news spreads so fast on Facebook and Twitter.](https://www.northernstar.com.au/news/reason-fake-news-spreads-so-fast-facebook-and-twit/3193990) 
 
 06/27/17 - DerStandard.at: Studie: [Informationsflut im Internet begünstigt Falschmeldungen</a>.</li>](http://derstandard.at/2000059846901/Studie-Informationsflut-im-Internet-beguenstigt-Falschmeldungen) 
 
-06/27/17 - The Queensland Times: [/The reason fake news spreads so fast on Facebook and Twitter.](https://www.qt.com.au/news/reason-fake-news-spreads-so-fast-facebook-and-twit/3193990) 
+06/27/17 - The Queensland Times: [The reason fake news spreads so fast on Facebook and Twitter.](https://www.qt.com.au/news/reason-fake-news-spreads-so-fast-facebook-and-twit/3193990) 
 
 06/26/17 - Wa.de: Studie: Informationsflut im Internet begünstigt gezielte Falschmeldungen.</li>[None](None) 
 
 06/26/17 - Pforzheimer Zeitung: [Moral und Emotion pushen Posts.](https://www.pz-news.de/nachrichten_artikel,-Moral-und-Emotion-pushen-Posts-_arid,1172631.html) 
 
-06/26/17 - PBS: [/Fake News is Spreading Thanks to Information Overload</a>.</li>](http://www.pbs.org/wgbh/nova/next/tech/fake-news-is-spreading-thanks-to-information-overload) 
+06/26/17 - PBS: [Fake News is Spreading Thanks to Information Overload</a>.</li>](http://www.pbs.org/wgbh/nova/next/tech/fake-news-is-spreading-thanks-to-information-overload) 
 
 06/26/17 - Hersfelder Zeitung: [Studie: Informationsflut im Internet begünstigt gezielte Falschmeldungen.](https://www.hersfelder-zeitung.de/panorama/studie-informationsflut-im-internet-beguenstigt-gezielte-falschmeldungen-zr-8434844.html) 
 
-06/26/17 - PBS: [/Everyone is too distracted to stop sharing fake news, study shows</a>.</li>](http://www.pbs.org/newshour/rundown/distracted-stop-sharing-fake-news-study-shows) 
+06/26/17 - PBS: [Everyone is too distracted to stop sharing fake news, study shows</a>.</li>](http://www.pbs.org/newshour/rundown/distracted-stop-sharing-fake-news-study-shows) 
 
 06/26/17 - The Verge: [Your short attention span could help fake news spread</a>.</li>](https://www.theverge.com/2017/6/26/15875488/fake-news-viral-hoaxes-bots-information-overload-twitter-facebook-social-media) 
 
@@ -219,9 +219,9 @@ title: "News"
 
 06/26/17 - Il Sole 24 Ore: [Fake news, algoritmi e ora il chatbot che contrasta la disinformazione in rete](http://www.ilsole24ore.com/art/tecnologie/2017-06-26/fake-news-algoritmi-e-ora-chatbot-che-contrasta-disinformazione-rete-084118.shtml?refresh_ce=1) 
 
-06/26/17 - ORF.AT: [/Wie virale Botschaften entstehen</a>.</li>](http://science.orf.at/stories/2851224) 
+06/26/17 - ORF.AT: [Wie virale Botschaften entstehen</a>.</li>](http://science.orf.at/stories/2851224) 
 
-06/26/17 - MeteoWeb: [/Sempre più bufale sul web: ecco perché accade e cosa fare per evitarle.](http://www.meteoweb.eu/2017/06/sempre-piu-bufale-sul-web-ecco-perche-accade-e-cosa-fare-per-evitarle/923749) 
+06/26/17 - MeteoWeb: [Sempre più bufale sul web: ecco perché accade e cosa fare per evitarle.](http://www.meteoweb.eu/2017/06/sempre-piu-bufale-sul-web-ecco-perche-accade-e-cosa-fare-per-evitarle/923749) 
 
 06/26/17 - Patch: [Anatomy Of Fake News: Erroneous Texas Tweet Alleging Trump Protest At Center Of Study](https://patch.com/texas/downtownaustin/anatomy-fake-news-erroneous-texas-tweet-alleging-trump-protest-center-study) 
 
