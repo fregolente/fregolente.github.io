@@ -3,6 +3,41 @@ layout: archive
 permalink: /news/
 title: "News"
 ---
+
+## **Our paper [How the 2025 NIH grant terminations varied by researchers’ demographic groups](https://www.pnas.org/doi/10.1073/pnas.2527755123)**
+
+03/23/26 – Fierce Biotech: [NIH grant cuts hit women, early-career scientists the hardest: analysis.](https://www.fiercebiotech.com/research/nih-grant-cuts-hit-women-early-career-scientists-hardest-analysis-finds)
+
+03/23/26 – Stat: [NIH grant terminations affected women scientists more than men, study finds.](https://www.statnews.com/2026/03/23/nih-cuts-who-lost-funding-women-blacks-young-researchers/)
+
+03/24/26 – C&EN: [Women and early-career researchers hit hardest by NIH grant cancellations.](https://cen.acs.org/policy/research-funding/Women-early-career-researchers-hit/104/web/2026/03)
+
+03/24/26 – R&D World: [Women, early-career scientists bore the brunt of 2025 NIH grant cuts, new research shows.](https://www.rdworldonline.com/women-early-career-scientists-bore-the-brunt-of-2025-nih-grant-cuts-new-research-shows/)
+
+03/24/26 – MedPage Today: [Baby-Killing Doctor Dies; CDC Director Deadline Looms; Lyme Vax Trial Data.](https://www.medpagetoday.com/publichealthpolicy/generalprofessionalissues/120453)
+
+03/24/26 – Science: [Uneven toll of NIH grant cuts](https://www.science.org/content/article/scienceadviser-uneven-toll-nih-grant-cuts#uneven-toll)
+
+03/25/26 – World Today News: [NIH Grant Cuts Disproportionately Harm Women, Early-Career Scientists.](https://www.world-today-news.com/nih-grant-cuts-disproportionately-harm-women-early-career-scientists/)
+
+03/25/26 – CIDRAP: [Women, early-career investigators hit hardest by 2025 NIH grant cuts.](https://www.cidrap.umn.edu/anti-science/women-early-career-investigators-hit-hardest-2025-nih-grant-cuts)
+
+03/25/26 – Inside Higher Ed: [Studies Flag Inequities in NIH Grant Cuts, Threats to Science Pipeline.](https://www.insidehighered.com/news/quick-takes/2026/03/25/studies-flag-inequities-grant-cuts-threats-pipeline)
+
+03/25/26 – Becker’s Clinical Leadership: [Women, early-career scientists hardest hit by NIH grant terminations: Study.](https://www.beckershospitalreview.com/quality/public-health/women-early-career-scientists-hardest-hit-by-nih-grant-terminations-study/)
+
+03/26/26 – Research Professional News: [NIH cuts ‘worse for women and early career researchers’.](https://www.researchprofessionalnews.com/rr-news-usa-federal-agencies-2026-3-nih-cuts-worse-for-women-and-early-career-researchers/)
+
+03/26/26 – Yahoo News: [NIH grant terminations disproportionately hurt women, early-career researchers.](https://www.yahoo.com/news/articles/nih-grant-terminations-disproportionately-hurt-050000089.html)
+
+03/26/26 – Higher Ed Dive: [NIH grant terminations disproportionately hurt women, early-career researchers.](https://www.highereddive.com/news/nih-grant-terminations-disproportionately-hurt-women-early-career-research/815731/)
+
+03/31/26 – Lab Manager: [Analysis of 2025 NIH Grant Terminations and Their Impact on Research Demographics.](https://www.labmanager.com/analysis-of-2025-nih-grant-terminations-and-their-impact-on-research-demographics-35170)
+
+04/01/26 – WIA Report: [Women Scientists Were Disproportionately Affected by Recent NIH Grant Terminations.](https://wiareport.com/2026/04/women-scientists-were-disproportionately-affected-by-recent-nih-grant-terminations/)
+
+
+
 ## **Our paper [Comparison of National Institutes of Health Grant Amounts to First-Time Male and Female Principal Investigators](https://jamanetwork.com/journals/jama/fullarticle/2726973)**
  
 03/05/19 - Northwestern Now:  [Women scientists get less federal funding than men.](https://news.northwestern.edu/stories/2019/03/women-scientists-get-less-federal-funding-than-men)
