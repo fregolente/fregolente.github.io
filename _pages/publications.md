@@ -11,25 +11,28 @@ redirect_from:
 
 The number of citations can be found in my [Google Scholar](https://scholar.google.com/citations?user=bIL7_QMAAAAJ&hl=en)
 
-**Under Review or In Progress**
 
+60. D. F. M. Oliveira, Q. Huang, T. K. Woodruff, B. Uzzi, **How the 2025 NIH grant terminations varied by researchers’ demographic groups.** PNAS - Proceedings of the National Academy of Sciences, vol. 123, no. 13, e2527755123, 2026.
 
-56. G. L. Ciampaglia, M. Tambuscio, D. F. M Oliveira, G. Ruffo, A. Flammini, F. Menczer **Understanding the spread of misinformation over online social networks.** In Progress, 2022.
+59. E. D. Leonel, D. F. M. Oliveira, **Scaling invariance: a bridge between geometry, dynamics and criticality**. Contemporary Physics, p. 1–26, 2026.
 
-55. D. F. M. Oliveira, Q Jin, K. S. Chan, Brian Uzzi **Quantifying Gender Disparities in Economics Research.** In Progress, 2022.
+58. D. Borin, M. R. Sales, E. D. Leonel, D. F. M. Oliveira, **On the dynamics of the q-Tsallis Gauss iterated map.** Physica A: Statistical Mechanics and its Applications, p. 131352, 2026.
 
-54. D. F. M. Oliveira, Q Jin, K. S. Chan, Brian Uzzi **Prize and Prestige in Economics Research.** In Progress , 2022.
+57. D. F. M. Oliveira, Q. Huang, **Navigating gender disparities in communication research leadership: academic recognition, career development, and compensation.** Annals of the International Communication Association, vol. 49, no. 4, p. 349–362, 2025.
 
-52. A. Bradford,M.-L. Sohnius, K. A. Morris,D.F.M. Oliveira, A.C. Haensch, M. Srivastava, W. La Motte-Kerr, J. Klein, F. Kreuter, **Socio-demographic question placement in a multinational web survey.** In Progress , 2022.
+56. A. K. P. da Fonseca, F. A. O. Silveira, C. M. Kuwana, D. F. M. Oliveira, E. D. Leonel, **Transition from bounded to unbounded energy in a time-dependent billiard.** Physical Review E, vol. 111, p. 054215, 2025.
 
-52. D.F.M. Oliveira, A. Bradford, M.-L. Sohnius, K. A. Morris, A.C. Haensch, F. Kreuter, **Characterizing long covid in a multinational web survey.** In Progress, 2022.
+55. E. D. Leonel, C. M. Kuwana, D. F. M. Oliveira, **Scaling invariance for the diffusion coefficient in a dissipative standard mapping.** Physica D: Nonlinear Phenomena, vol. 472, p. 134513, 2025.
 
-51. D. F. M. Oliveira, E.D. Leonel **Unlimited Energy growth in an Lemon-like billiard.** In Progress, 2022.
+54. E. D. Leonel, D. F. M. Oliveira, **Rare events for low energy domain in bouncing ball model.** Physics Letters A, vol. 531, p. 130161, 2025.
 
-50. D. F. M. Oliveira, E.D. Leonel **Suppression of Fermi-acceleration in a two dimensional time-dependent Lemon-like billiard.** In Progress, 2022.
+53. D. F. M. Oliveira, **Mapping chaos: bifurcation patterns and shrimp structures in the Ikeda map.** Chaos: An Interdisciplinary Journal of Nonlinear Science, vol. 34, no. 12, 2024.
 
+52. K. Cetin, U. Tirnakli, D. F. M. Oliveira, E. D. Leonel, **Statistical mechanical characterization of billiard systems.** Chaos, Solitons & Fractals, vol. 178, p. 114331, 2024.
 
-**Published**
+51. N. Xiao, R. Marquez-Karry, D. F. M. Oliveira, S. Berggruen, J. M. Horowitz, **Gender disparities in academic radiology authorship: a 13-year review.** Academic Radiology, vol. 30, no. 8, p. 1714–1720, 2023.
+
+50. D. F. M. Oliveira, K. S. Chan, P. J. Mucha, **The effects of message sorting in the diffusion of information in online social media.** In Complex Networks and Their Applications XI: Proceedings of the Eleventh International Conference on Complex Networks and Their Applications, p. 98–107, 2022.
 
 49.  D. F. M. Oliveira, Kevin S. Chan, Peter J. Mucha **Message sorting: a mechanism that hinders the system’s discriminative power**. Complex Networks and Their Applications XI: Proceedings of The Eleventh International Conference on Complex Networks and Their Applications: COMPLEX NETWORKS 2022.
 
