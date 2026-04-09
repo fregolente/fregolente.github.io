@@ -135,6 +135,8 @@ title: "News"
 
 10/05/2018 - [Academic interventional radiology community inclusive of female researchers.](https://www.radiologybusiness.com/topics/leadership/academic-interventional-radiology-inclusive)
 
+01/22/2019 - [Number of studies authored by female IRs on the rise.](https://interventionalnews.com/female-authorship-rising/)
+
 
 ## **Our paper about [Diffusion of information in online social media](http://www.diegofregolent.com/wp-content/uploads/2017/04/NHB.pdf) was featured in:**
 
