@@ -11,7 +11,6 @@ redirect_from:
 
 The number of citations can be found in my [Google Scholar](https://scholar.google.com/citations?user=bIL7_QMAAAAJ&hl=en)
 
- [Gender Disparities in Academic Radiology: A 13-Year Review.](https://pubmed.ncbi.nlm.nih.gov/36424312/) 
 
 60. D. F. M. Oliveira, Q. Huang, T. K. Woodruff, B. Uzzi, [How the 2025 NIH grant terminations varied by researchers’ demographic groups.](https://www.pnas.org/doi/10.1073/pnas.2527755123) PNAS - Proceedings of the National Academy of Sciences, vol. 123, no. 13, e2527755123, 2026.
 
