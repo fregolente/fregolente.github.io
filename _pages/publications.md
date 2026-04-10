@@ -38,37 +38,37 @@ The number of citations can be found in my [Google Scholar](https://scholar.goog
 
 48. N. Xiao, R. Marquez-Karry, D. F. M. Oliveira, S. Berggruen, J. M. Horowitz [Gender Disparities in Academic Radiology: A 13-Year Review.](https://pubmed.ncbi.nlm.nih.gov/36424312/)  Academic radiology, 2022.
 
-47. Hongjia H. Chen, Tristram J. Alexander, Diego F.M. Oliveira and Eduardo G. Altmann **Scaling laws and dy- namics of hashtags on Twitter.** Chaos, vol. 30, 063112, 2020.
+47. Hongjia H. Chen, Tristram J. Alexander, Diego F.M. Oliveira and Eduardo G. Altmann [Scaling laws and dynamics of hashtags on Twitter.](https://pubs.aip.org/aip/cha/article/30/6/063112/1027425/Scaling-laws-and-dynamics-of-hashtags-on-Twitter) Chaos, vol. 30, 063112, 2020.
 
-46. T. K. Woodruff, D. F. M Oliveira, Y. Ma, **Sex Differences in Grant Funding.** JAMA - The Journal of the American Medical Association, vol. 322, p. 578-580, 2019.
+46. T. K. Woodruff, D. F. M Oliveira, Y. Ma, [Sex Differences in Grant Funding—Reply.](https://jamanetwork.com/journals/jama/fullarticle/2747664) JAMA - The Journal of the American Medical Association, vol. 322, p. 578-580, 2019.
 
-45. D. F. M Oliveira, Y. Ma, T. K. Woodruff, B. Uzzi, **Comparison of National Institutes of Health Grant Amounts to First-Time Male and Female Principal Investigators.** JAMA - The Journal of the American Medical Association, vol. 321, p. 898-900, 2019.
+45. D. F. M Oliveira, Y. Ma, T. K. Woodruff, B. Uzzi, [Comparison of National Institutes of Health Grant Amounts to First-Time Male and Female Principal Investigators.](https://jamanetwork.com/journals/jama/fullarticle/2726973) JAMA - The Journal of the American Medical Association, vol. 321, p. 898-900, 2019.
 
-44. Y. Ma, D. F. M Oliveira, T. K. Woodruff, B. Uzzi, **Women who win prizes get less money and prestige.** Nature, vol. 565, p. 287-288, 2019.
+44. Y. Ma, D. F. M Oliveira, T. K. Woodruff, B. Uzzi, [Women who win prizes get less money and prestige.](https://www.nature.com/articles/d41586-019-00091-3) Nature, vol. 565, p. 287-288, 2019.
 
-43. D. F. M. Oliveira, K. S. Chan, **The effects of trust and influence on the spreading of low and high quality information.** Physica A: Statistical Mechanics and its Applications, vol. 525, p. 657-663, 2019.
+43. D. F. M. Oliveira, K. S. Chan, [The effects of trust and influence on the spreading of low and high quality information.](https://www.sciencedirect.com/science/article/pii/S0378437119302614) Physica A: Statistical Mechanics and its Applications, vol. 525, p. 657-663, 2019.
 
-42. D. F. M. Oliveira, K. S. Chan, **Diffusion of Information in an Online Social Network with Limited Attention.** Information & Security vol. 43, p. 362-374, 2019.
+42. D. F. M. Oliveira, K. S. Chan, [Diffusion of Information in an Online Social Network with Limited Attention.](https://isij.eu/article/diffusion-information-online-social-network-limited-attention) Information & Security vol. 43, p. 362-374, 2019.
 
-41. P. Cisneros-Velarde, D. F. M. Oliveira, K. S. Chan, **Spread and control of misinformation with heterogeneous agents.** Complex Networks X, p. 75-83, 2019.
+41. P. Cisneros-Velarde, D. F. M. Oliveira, K. S. Chan, [Spread and control of misinformation with heterogeneous agents.](https://www.semanticscholar.org/paper/Spread-and-Control-of-Misinformation-with-Agents-Cisneros-Velarde-Oliveira/cfce15b1581c9cef7d3a7c400b5cb6e735c296b2) Complex Networks X, p. 75-83, 2019.
 
-40. E. Ciftcioglu, R. Hardy, K. Chan, L. Scott, D.F.M. Oliveira, G. Verma, **Chaff Allocation and Performance for Network Traffic Obfuscation.** 38th IEEE International Conference on Distributed Computing Systems, 2018, p. 1565-1568, 2018.
+40. E. Ciftcioglu, R. Hardy, K. Chan, L. Scott, D.F.M. Oliveira, G. Verma, [Chaff Allocation and Performance for Network Traffic Obfuscation.](https://ieeexplore.ieee.org/document/8416433?TSPD_101_R0=0807dc117eab2000d232e1265a256ba570c593b7e9644bdf983a75a4a01c70c4326df9bedf1753ca08e40376c21430002089747896645c3f68b0add7e0de6cd1e8fc36147219048019aa6f377853c6c0896f49f939ad9f2aaa3c739e27fe08b8) 38th IEEE International Conference on Distributed Computing Systems, 2018, p. 1565-1568, 2018.
 
-39. D. F. M. Oliveira, K. S. Chan, Edson D. Leonel **Scaling Invariance in a Social Network with Limited Attention and Innovation.** Physics Letters A,vol. 382, p. 3376-3380, 2018.
+39. D. F. M. Oliveira, K. S. Chan, Edson D. Leonel [Scaling Invariance in a Social Network with Limited Attention and Innovation.](https://www.sciencedirect.com/science/article/pii/S0375960118309940) Physics Letters A,vol. 382, p. 3376-3380, 2018.
 
-38. N. Xiao, D. F. M. Oliveira, R. Gupta, **Characterizing the Impact of Women in Academic Interventional Radiology - a 12 year analysis.** Journal of Vascular and Interventional Radiology. vol. 29, p. 1553-1557, 2018.
+38. N. Xiao, D. F. M. Oliveira, R. Gupta, [Characterizing the Impact of Women in Academic Interventional Radiology - a 12 year analysis.](https://www.sciencedirect.com/science/article/pii/S1051044318312831?via%3Dihub) Journal of Vascular and Interventional Radiology. vol. 29, p. 1553-1557, 2018.
 
-37. M. Tambuscio, D. F. M Oliveira, G. L. Ciampaglia, G. Ruffo, **Network segregation in a model of misinformation and fact-checking.** Journal of Computational Social Science ,vol. 1, p. 261-275,2018
+37. M. Tambuscio, D. F. M Oliveira, G. L. Ciampaglia, G. Ruffo, [Network segregation in a model of misinformation and fact-checking.](https://link.springer.com/article/10.1007/s42001-018-0018-9) Journal of Computational Social Science ,vol. 1, p. 261-275,2018
 
-36. N. Xiao, N. A. Mansukhani, D. F. M Oliveira, M. R. Kibbe MR, **Association of Author Gender With Sex Bias in Surgical Research.** JAMA Surgery, vol. 1, p. 663-670,2018
+36. N. Xiao, N. A. Mansukhani, D. F. M Oliveira, M. R. Kibbe MR, [Association of Author Gender With Sex Bias in Surgical Research.](https://jamanetwork.com/journals/jamasurgery/fullarticle/2676727) JAMA Surgery, vol. 1, p. 663-670,2018
 
-35. X. Qiu∗, D. F. M. Oliveira∗, A. Flammini, F. Menczer **Limited individual attention and online virality of low- quality information.** Nature Human Behaviour, vol.1, p.1-7, 2017. (∗ The authors contributed equally to the paper.)
+35. X. Qiu∗, D. F. M. Oliveira∗, A. Flammini, F. Menczer [Limited individual attention and online virality of low-quality information.](https://www.nature.com/articles/s41562-017-0132) Nature Human Behaviour, vol.1, p.1-7, 2017. (∗ The authors contributed equally to the paper.)
 
-34. Marcus Vin ́ıcius Camillo Galia, D. F. M. Oliveira, Mario R. Silva, E. D. Leonel, **Evolution to the equilibrium in a dissipative and time dependent billiard.** Physica A, vol.465, p.66–74, 2017.
+34. Marcus Vin ́ıcius Camillo Galia, D. F. M. Oliveira, Mario R. Silva, E. D. Leonel, [Evolution to the equilibrium in a dissipative and time dependent billiard.](https://www.sciencedirect.com/science/article/pii/S0378437116304873) Physica A, vol.465, p.66–74, 2017.
 
-33. Edson D. Leonel, Marcus Vinıcius Camillo Galia, Luis Antonio Barreiro, D. F. M. Oliveira, **Thermodynamics of a time dependent and dissipative oval billiard: a heat transfer and billiard approach.** Phys. Rev. E, v.94, p.062211(1-10), 2016.
+33. Edson D. Leonel, Marcus Vinıcius Camillo Galia, Luis Antonio Barreiro, D. F. M. Oliveira, [Thermodynamics of a time dependent and dissipative oval billiard: a heat transfer and billiard approach.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.062211) Phys. Rev. E, v.94, p.062211(1-10), 2016.
 
-32. D. Nikolov, D. F. M. Oliveira, A. Flammini, F. Menczer **Measuring online social bubbles.** Peerj Computer Science, vol. 1, p.e38, 2015.
+32. D. Nikolov, D. F. M. Oliveira, A. Flammini, F. Menczer [Measuring online social bubbles.](https://peerj.com/articles/cs-38/) Peerj Computer Science, vol. 1, p.e38, 2015.
 
 31. D. F. M. Oliveira, Mario R. Silva, E. D. Leonel, **A symmetry break in energy distribution causing unlimited diffusion in a two dimensional mapping.** Physica A, vol.15, p.909–915, 2015.
 
