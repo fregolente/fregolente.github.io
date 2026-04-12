@@ -8,11 +8,10 @@ redirect_from:
   - /publications/pubsbyyear/
 ---
 
-
 The number of citations can be found in my [Google Scholar](https://scholar.google.com/citations?user=bIL7_QMAAAAJ&hl=en)
 
 
-60. D. F. M. Oliveira, Q. Huang, T. K. Woodruff, B. Uzzi, [How the 2025 NIH grant terminations varied by researchers’ demographic groups.](https://www.pnas.org/doi/10.1073/pnas.2527755123) PNAS - Proceedings of the National Academy of Sciences, vol. 123, no. 13, e2527755123, 2026.
+60. D. F. M. Oliveira, Q. Huang, T. K. Woodruff, B. Uzzi, [How the 2025 NIH grant terminations varied by researchers’ demographic groups.](https://www.pnas.org/doi/10.1073/pnas.2527755123) PNAS - Proceedings of the National Academy of Sciences, vol. 123, no. 13, e2527755123, 2026. [[VIDEO](https://youtu.be/5ZRHKZMXSWc)]
 
 59. E. D. Leonel, D. F. M. Oliveira, [Scaling invariance: a bridge between geometry, dynamics and criticality.](https://www.tandfonline.com/doi/full/10.1080/00107514.2026.2634487?mi=8e4eys) . Contemporary Physics, p. 1–26, 2026.
 
