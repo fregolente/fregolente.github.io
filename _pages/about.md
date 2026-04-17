@@ -36,3 +36,5 @@ Nonlinear dynamics, closed and open systems, scaling laws, discrete maps, chaoti
 
 
 
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=uqaYlbym-lGjc2hyx7e7vIzSyScu7EHC_GfqmJedqHE&cl=ffffff&w=a"></script>
