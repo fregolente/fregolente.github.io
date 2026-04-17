@@ -35,7 +35,3 @@ Chaos and Dynamical Systems:
 Nonlinear dynamics, closed and open systems, scaling laws, discrete maps, chaotic dynamics, conservative and dissipative systems, time-dependent systems, Fermi acceleration, billiards, kicked systems, chaotic and periodic attractors, bifurcations, and boundary crises.
 
 
-
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=180&t=n&d=uqaYlbym-lGjc2hyx7e7vIzSyScu7EHC_GfqmJedqHE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-
